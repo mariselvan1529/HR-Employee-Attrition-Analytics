@@ -67,6 +67,3 @@ HR-Employee-Analytics/
 ## 👤 Author
 **mariselvan1529**  
 Fresher Data Analyst | Excel · SQL · Python · Power BI
-
----
-⭐ Star this repo if you found it helpful!
