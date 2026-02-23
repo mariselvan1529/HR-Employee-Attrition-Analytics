@@ -1,0 +1,201 @@
+EmployeeID,Age,Gender,MaritalStatus,Department,JobRole,EducationField,MonthlyIncome,YearsAtCompany,YearsWithCurrManager,JobSatisfaction,PerformanceRating,WorkLifeBalance,OverTime,BusinessTravel,Attrition,AgeGroup,AttritionFlag
+EMP0001,23,Male,Single,Operations,Operations Manager,Life Sciences,9303,5,2,2,2,1,Yes,Non-Travel,No,21-25,0
+EMP0002,23,Male,Divorced,HR,Recruiter,Technical Degree,5932,4,1,4,3,3,Yes,Travel_Rarely,No,21-25,0
+EMP0003,35,Female,Divorced,Technology,Data Analyst,Life Sciences,6879,10,1,4,2,3,No,Travel_Rarely,No,26-35,0
+EMP0004,40,Male,Single,Sales,Sales Representative,Life Sciences,4481,20,19,2,3,1,Yes,Travel_Rarely,No,36-45,0
+EMP0005,45,Male,Single,Technology,Developer,Technical Degree,9455,5,2,2,3,1,Yes,Travel_Rarely,No,36-45,0
+EMP0006,42,Female,Single,Technology,Data Analyst,Other,6631,1,0,3,3,1,Yes,Travel_Rarely,No,36-45,0
+EMP0007,51,Female,Married,Finance,Financial Analyst,Medical,7271,4,2,2,3,3,No,Non-Travel,No,46+,0
+EMP0008,27,Female,Divorced,Marketing,Marketing Executive,Marketing,4926,0,0,2,4,4,Yes,Travel_Frequently,No,26-35,0
+EMP0009,29,Female,Divorced,Sales,Sales Representative,Medical,4092,10,8,3,2,4,Yes,Travel_Frequently,No,26-35,0
+EMP0010,41,Female,Single,Sales,Sales Representative,Life Sciences,5494,20,16,2,3,2,Yes,Travel_Rarely,No,36-45,0
+EMP0011,25,Male,Married,Technology,Data Analyst,Human Resources,6850,3,0,4,4,2,Yes,Travel_Frequently,No,21-25,0
+EMP0012,56,Female,Single,Finance,Finance Manager,Medical,10276,6,5,4,4,3,No,Non-Travel,No,46+,0
+EMP0013,23,Male,Married,Sales,Sales Manager,Life Sciences,8442,4,4,2,1,1,Yes,Travel_Frequently,Yes,21-25,1
+EMP0014,53,Male,Divorced,HR,HR Executive,Technical Degree,4041,6,4,4,3,4,No,Travel_Rarely,No,46+,0
+EMP0015,51,Female,Single,Finance,Accountant,Technical Degree,4748,1,0,4,3,1,Yes,Non-Travel,No,46+,0
+EMP0016,37,Male,Single,Technology,Developer,Technical Degree,10254,2,1,1,2,1,Yes,Travel_Rarely,No,36-45,0
+EMP0017,47,Female,Single,Finance,Finance Manager,Medical,10552,1,0,1,4,3,No,Travel_Rarely,No,46+,0
+EMP0018,56,Male,Single,HR,HR Manager,Life Sciences,7234,1,1,1,3,2,Yes,Travel_Frequently,No,46+,0
+EMP0019,37,Female,Married,Sales,Sales Representative,Medical,5333,12,1,2,3,1,Yes,Travel_Frequently,No,36-45,0
+EMP0020,37,Male,Single,Operations,Operations Analyst,Human Resources,5536,8,6,3,3,1,Yes,Non-Travel,No,36-45,0
+EMP0021,30,Male,Divorced,Marketing,Marketing Executive,Human Resources,5300,5,0,3,3,4,No,Travel_Rarely,No,26-35,0
+EMP0022,30,Female,Divorced,Operations,Operations Manager,Technical Degree,8738,4,0,2,3,2,No,Travel_Rarely,No,26-35,0
+EMP0023,49,Female,Divorced,Sales,Sales Executive,Life Sciences,4014,8,0,3,4,3,Yes,Non-Travel,No,46+,0
+EMP0024,31,Male,Married,Sales,Sales Representative,Medical,4512,8,0,2,3,1,No,Travel_Frequently,No,26-35,0
+EMP0025,28,Male,Married,HR,Recruiter,Life Sciences,5364,5,4,2,4,2,Yes,Non-Travel,No,26-35,0
+EMP0026,48,Female,Married,Operations,Operations Analyst,Marketing,5652,7,4,1,3,1,No,Non-Travel,No,46+,0
+EMP0027,34,Female,Divorced,HR,HR Manager,Human Resources,8141,12,5,1,4,3,No,Travel_Rarely,No,26-35,0
+EMP0028,38,Female,Married,Sales,Sales Executive,Human Resources,5087,5,4,1,2,4,No,Travel_Frequently,No,36-45,0
+EMP0029,58,Female,Divorced,Sales,Sales Manager,Marketing,7681,6,2,4,1,2,No,Travel_Frequently,No,46+,0
+EMP0030,41,Female,Divorced,Sales,Sales Representative,Other,4672,16,9,3,3,3,Yes,Non-Travel,No,36-45,0
+EMP0031,41,Female,Divorced,Marketing,Brand Manager,Medical,6501,12,8,3,3,4,No,Travel_Frequently,No,36-45,0
+EMP0032,32,Male,Single,Finance,Financial Analyst,Life Sciences,7862,10,1,3,2,2,No,Non-Travel,No,26-35,0
+EMP0033,26,Male,Divorced,HR,HR Executive,Other,5857,7,6,2,3,4,No,Non-Travel,No,26-35,0
+EMP0034,36,Female,Divorced,Sales,Sales Manager,Human Resources,9621,5,5,4,2,2,Yes,Travel_Frequently,No,36-45,0
+EMP0035,50,Male,Divorced,Marketing,Marketing Executive,Marketing,6047,19,16,4,4,4,No,Travel_Frequently,No,46+,0
+EMP0036,37,Male,Single,Finance,Financial Analyst,Medical,7017,8,7,3,3,3,No,Non-Travel,No,36-45,0
+EMP0037,31,Female,Married,Finance,Financial Analyst,Human Resources,6963,11,3,4,3,4,No,Travel_Frequently,Yes,26-35,1
+EMP0038,46,Female,Married,Sales,Sales Representative,Technical Degree,4440,15,0,3,4,4,Yes,Non-Travel,No,46+,0
+EMP0039,47,Male,Married,Finance,Accountant,Medical,5022,5,3,1,4,1,Yes,Non-Travel,No,46+,0
+EMP0040,42,Female,Married,Technology,Developer,Life Sciences,9338,6,3,3,4,4,No,Travel_Rarely,No,36-45,0
+EMP0041,56,Male,Single,Sales,Sales Representative,Human Resources,3918,1,1,1,4,1,Yes,Non-Travel,No,46+,0
+EMP0042,52,Male,Married,HR,HR Manager,Life Sciences,8904,3,1,3,4,2,Yes,Travel_Frequently,No,46+,0
+EMP0043,58,Female,Divorced,Sales,Sales Manager,Human Resources,8312,12,6,1,3,2,Yes,Non-Travel,No,46+,0
+EMP0044,44,Female,Single,Marketing,Marketing Manager,Technical Degree,9217,17,13,1,3,3,Yes,Travel_Rarely,No,36-45,0
+EMP0045,31,Female,Married,Operations,Operations Analyst,Medical,7137,6,1,3,3,4,No,Non-Travel,No,26-35,0
+EMP0046,37,Male,Married,Technology,Developer,Marketing,10499,14,9,4,3,4,No,Travel_Rarely,No,36-45,0
+EMP0047,57,Female,Married,Technology,IT Manager,Life Sciences,9850,0,0,2,3,4,Yes,Non-Travel,No,46+,0
+EMP0048,47,Female,Married,Technology,Data Analyst,Other,8882,7,4,3,3,3,No,Travel_Rarely,No,46+,0
+EMP0049,38,Female,Married,Technology,IT Manager,Other,10288,7,1,3,2,2,Yes,Travel_Frequently,No,36-45,0
+EMP0050,40,Male,Married,Marketing,Brand Manager,Life Sciences,7713,3,1,2,3,3,Yes,Non-Travel,No,36-45,0
+EMP0051,30,Male,Single,Marketing,Marketing Executive,Marketing,4720,10,7,1,3,4,No,Travel_Rarely,No,26-35,0
+EMP0052,47,Male,Divorced,Sales,Sales Executive,Technical Degree,6363,15,2,1,3,3,Yes,Travel_Frequently,No,46+,0
+EMP0053,36,Male,Divorced,Marketing,Brand Manager,Other,8345,16,12,4,3,4,No,Non-Travel,No,36-45,0
+EMP0054,35,Female,Divorced,HR,Recruiter,Human Resources,4343,8,1,2,3,1,Yes,Travel_Rarely,Yes,26-35,1
+EMP0055,36,Male,Divorced,Technology,Software Engineer,Medical,10359,9,4,1,3,3,Yes,Travel_Rarely,No,36-45,0
+EMP0056,25,Female,Divorced,HR,HR Manager,Human Resources,9437,2,1,3,3,4,No,Travel_Rarely,No,21-25,0
+EMP0057,24,Female,Divorced,Finance,Finance Manager,Life Sciences,11472,3,2,3,1,2,Yes,Non-Travel,No,21-25,0
+EMP0058,50,Female,Married,Finance,Financial Analyst,Marketing,9097,8,2,4,3,4,Yes,Travel_Frequently,No,46+,0
+EMP0059,43,Female,Married,Sales,Sales Executive,Marketing,6029,13,11,3,3,4,Yes,Non-Travel,No,36-45,0
+EMP0060,22,Male,Single,Finance,Financial Analyst,Marketing,8392,4,3,1,3,3,No,Travel_Frequently,No,21-25,0
+EMP0061,50,Male,Single,HR,HR Executive,Life Sciences,3618,15,3,2,3,3,Yes,Travel_Rarely,No,46+,0
+EMP0062,31,Male,Married,Sales,Sales Representative,Medical,5084,7,4,3,3,4,No,Travel_Frequently,No,26-35,0
+EMP0063,30,Female,Divorced,Marketing,Brand Manager,Human Resources,8199,1,1,3,4,3,Yes,Travel_Frequently,No,26-35,0
+EMP0064,50,Male,Divorced,Finance,Finance Manager,Medical,10413,17,15,3,3,4,No,Travel_Frequently,No,46+,0
+EMP0065,48,Male,Divorced,Finance,Finance Manager,Human Resources,10937,1,1,4,3,2,No,Travel_Rarely,No,46+,0
+EMP0066,28,Female,Married,Sales,Sales Manager,Human Resources,7562,8,7,2,3,2,Yes,Travel_Frequently,No,26-35,0
+EMP0067,27,Male,Divorced,Finance,Financial Analyst,Other,8885,5,5,4,4,4,Yes,Travel_Rarely,No,26-35,0
+EMP0068,27,Male,Married,HR,Recruiter,Marketing,4111,6,0,4,3,3,Yes,Travel_Rarely,Yes,26-35,1
+EMP0069,37,Male,Married,Finance,Finance Manager,Human Resources,11318,16,13,2,3,1,No,Non-Travel,No,36-45,0
+EMP0070,38,Female,Divorced,HR,HR Executive,Marketing,3538,14,4,4,4,2,Yes,Travel_Frequently,No,36-45,0
+EMP0071,38,Female,Divorced,Finance,Financial Analyst,Marketing,7937,14,13,2,4,4,Yes,Travel_Frequently,No,36-45,0
+EMP0072,47,Male,Divorced,Technology,Software Engineer,Marketing,10818,8,0,1,4,4,No,Non-Travel,No,46+,0
+EMP0073,38,Male,Married,Operations,Operations Manager,Marketing,8461,4,0,3,4,1,No,Travel_Frequently,No,36-45,0
+EMP0074,34,Female,Divorced,Finance,Finance Manager,Marketing,10498,4,4,3,4,3,No,Non-Travel,No,26-35,0
+EMP0075,31,Male,Married,Finance,Finance Manager,Marketing,10627,12,3,3,2,4,Yes,Travel_Frequently,No,26-35,0
+EMP0076,38,Female,Divorced,Operations,Supply Chain Analyst,Medical,7021,18,12,1,3,4,Yes,Travel_Frequently,No,36-45,0
+EMP0077,51,Male,Single,Sales,Sales Representative,Medical,3477,9,6,2,1,1,No,Travel_Frequently,No,46+,0
+EMP0078,51,Female,Divorced,HR,HR Executive,Technical Degree,5712,11,10,4,3,2,No,Travel_Rarely,No,46+,0
+EMP0079,45,Female,Single,Sales,Sales Representative,Technical Degree,4821,6,3,2,4,1,No,Travel_Rarely,No,36-45,0
+EMP0080,51,Male,Single,HR,HR Manager,Human Resources,7868,2,2,1,2,3,Yes,Non-Travel,No,46+,0
+EMP0081,36,Male,Single,Marketing,Marketing Manager,Other,10141,10,2,1,3,2,Yes,Non-Travel,No,36-45,0
+EMP0082,44,Male,Married,HR,HR Manager,Technical Degree,7064,7,5,2,3,2,No,Travel_Rarely,No,36-45,0
+EMP0083,28,Female,Married,Marketing,Brand Manager,Other,6677,7,3,3,3,1,Yes,Non-Travel,No,26-35,0
+EMP0084,50,Female,Married,Finance,Financial Analyst,Human Resources,8019,2,0,2,2,3,No,Travel_Frequently,No,46+,0
+EMP0085,29,Female,Married,Finance,Finance Manager,Technical Degree,11258,10,10,2,3,2,No,Travel_Frequently,No,26-35,0
+EMP0086,49,Male,Single,Sales,Sales Manager,Technical Degree,8544,10,10,3,4,4,Yes,Non-Travel,Yes,46+,1
+EMP0087,45,Female,Divorced,Operations,Supply Chain Analyst,Life Sciences,5745,4,4,3,3,4,No,Travel_Rarely,No,36-45,0
+EMP0088,44,Female,Single,Marketing,Marketing Executive,Marketing,4933,3,1,4,3,1,No,Travel_Frequently,No,36-45,0
+EMP0089,57,Female,Married,HR,HR Executive,Marketing,5780,19,19,1,3,3,Yes,Non-Travel,No,46+,0
+EMP0090,58,Female,Single,HR,HR Manager,Marketing,7581,12,1,1,2,2,No,Travel_Rarely,No,46+,0
+EMP0091,58,Female,Married,Operations,Operations Analyst,Human Resources,5215,19,2,2,3,1,Yes,Travel_Rarely,No,46+,0
+EMP0092,35,Female,Divorced,Finance,Accountant,Life Sciences,5913,16,3,4,2,4,No,Non-Travel,Yes,26-35,1
+EMP0093,35,Female,Divorced,HR,HR Executive,Other,4685,4,2,3,2,4,No,Non-Travel,No,26-35,0
+EMP0094,44,Female,Divorced,Marketing,Brand Manager,Other,6673,2,1,4,1,1,No,Travel_Rarely,No,36-45,0
+EMP0095,47,Male,Single,Technology,Software Engineer,Technical Degree,9203,0,0,4,4,3,Yes,Travel_Frequently,No,46+,0
+EMP0096,27,Male,Divorced,Finance,Financial Analyst,Human Resources,7970,6,6,3,3,2,Yes,Non-Travel,No,26-35,0
+EMP0097,31,Female,Married,Technology,IT Manager,Human Resources,10099,3,0,3,3,2,Yes,Travel_Frequently,No,26-35,0
+EMP0098,58,Female,Married,Finance,Financial Analyst,Human Resources,8023,20,20,3,3,1,No,Non-Travel,No,46+,0
+EMP0099,41,Male,Divorced,Technology,Software Engineer,Human Resources,8654,14,7,1,3,3,Yes,Travel_Frequently,No,36-45,0
+EMP0100,57,Female,Single,Finance,Accountant,Marketing,6841,1,1,2,3,4,Yes,Travel_Frequently,No,46+,0
+EMP0101,33,Female,Married,Sales,Sales Representative,Technical Degree,4793,1,0,4,3,2,No,Travel_Rarely,No,26-35,0
+EMP0102,25,Male,Married,Operations,Supply Chain Analyst,Life Sciences,6850,5,0,1,3,4,No,Travel_Frequently,No,21-25,0
+EMP0103,44,Male,Divorced,Operations,Operations Manager,Other,8828,9,6,1,3,4,No,Travel_Rarely,No,36-45,0
+EMP0104,23,Male,Single,Marketing,Marketing Executive,Life Sciences,5038,2,1,2,3,4,Yes,Travel_Rarely,No,21-25,0
+EMP0105,56,Male,Divorced,Sales,Sales Representative,Technical Degree,4379,16,1,2,3,2,Yes,Non-Travel,No,46+,0
+EMP0106,37,Female,Single,Finance,Accountant,Marketing,5667,14,9,4,3,2,No,Travel_Frequently,No,36-45,0
+EMP0107,51,Male,Divorced,Marketing,Marketing Executive,Technical Degree,6359,9,6,4,4,2,Yes,Travel_Rarely,No,46+,0
+EMP0108,55,Male,Married,Marketing,Marketing Manager,Marketing,8043,3,2,2,3,2,No,Non-Travel,Yes,46+,1
+EMP0109,47,Male,Divorced,Finance,Finance Manager,Other,9965,16,11,4,4,3,Yes,Travel_Rarely,Yes,46+,1
+EMP0110,24,Male,Single,HR,HR Manager,Human Resources,7568,2,1,4,3,1,Yes,Travel_Frequently,Yes,21-25,1
+EMP0111,49,Female,Single,Marketing,Brand Manager,Life Sciences,7473,3,2,3,2,2,No,Travel_Rarely,No,46+,0
+EMP0112,23,Female,Single,Marketing,Brand Manager,Human Resources,8855,5,4,2,3,3,No,Travel_Rarely,Yes,21-25,1
+EMP0113,27,Female,Married,HR,Recruiter,Other,3977,8,5,1,3,4,Yes,Non-Travel,No,26-35,0
+EMP0114,44,Male,Divorced,Technology,Software Engineer,Technical Degree,10883,7,1,3,2,3,No,Travel_Frequently,No,36-45,0
+EMP0115,33,Female,Married,Finance,Financial Analyst,Human Resources,8574,4,0,1,3,1,Yes,Travel_Rarely,No,26-35,0
+EMP0116,38,Female,Married,Marketing,Marketing Executive,Technical Degree,5471,1,0,3,4,1,No,Travel_Frequently,No,36-45,0
+EMP0117,43,Male,Married,Finance,Accountant,Human Resources,6537,5,3,3,4,3,Yes,Non-Travel,No,36-45,0
+EMP0118,42,Female,Married,Marketing,Marketing Executive,Life Sciences,5643,3,0,3,3,4,Yes,Travel_Frequently,No,36-45,0
+EMP0119,39,Female,Single,Technology,Developer,Medical,8307,20,1,4,3,2,Yes,Non-Travel,Yes,36-45,1
+EMP0120,45,Male,Divorced,HR,Recruiter,Medical,6023,11,6,1,3,4,No,Travel_Frequently,No,36-45,0
+EMP0121,42,Male,Married,Technology,Developer,Marketing,9022,20,8,1,1,2,No,Travel_Frequently,No,36-45,0
+EMP0122,40,Female,Single,Finance,Finance Manager,Other,9502,15,6,2,4,4,Yes,Travel_Rarely,No,36-45,0
+EMP0123,26,Male,Single,Operations,Operations Analyst,Medical,6189,8,8,3,4,2,No,Non-Travel,No,26-35,0
+EMP0124,45,Female,Divorced,Finance,Finance Manager,Technical Degree,10914,17,11,2,3,1,Yes,Travel_Rarely,No,36-45,0
+EMP0125,30,Male,Single,Marketing,Marketing Manager,Technical Degree,8003,5,5,4,3,3,Yes,Travel_Frequently,No,26-35,0
+EMP0126,55,Female,Single,Sales,Sales Executive,Marketing,4674,4,2,2,3,2,No,Non-Travel,No,46+,0
+EMP0127,39,Female,Divorced,Operations,Supply Chain Analyst,Life Sciences,7685,4,2,1,3,2,Yes,Non-Travel,No,36-45,0
+EMP0128,58,Female,Divorced,Sales,Sales Executive,Marketing,6343,8,3,4,3,1,No,Travel_Rarely,No,46+,0
+EMP0129,47,Female,Divorced,HR,Recruiter,Medical,3998,9,7,1,3,4,No,Travel_Rarely,No,46+,0
+EMP0130,44,Male,Single,Operations,Operations Analyst,Life Sciences,6517,12,2,1,3,4,Yes,Non-Travel,No,36-45,0
+EMP0131,48,Female,Married,Technology,Developer,Marketing,9341,7,2,3,3,2,No,Travel_Rarely,No,46+,0
+EMP0132,47,Female,Married,Sales,Sales Executive,Human Resources,4986,16,14,2,3,1,Yes,Non-Travel,No,46+,0
+EMP0133,30,Female,Single,Sales,Sales Manager,Technical Degree,9151,4,2,3,1,1,Yes,Travel_Frequently,No,26-35,0
+EMP0134,39,Female,Divorced,Finance,Financial Analyst,Marketing,7186,19,19,2,4,4,No,Non-Travel,No,36-45,0
+EMP0135,54,Male,Divorced,HR,Recruiter,Human Resources,3864,12,8,1,1,3,No,Non-Travel,No,46+,0
+EMP0136,32,Male,Married,Technology,IT Manager,Marketing,10725,6,4,3,3,4,No,Travel_Frequently,No,26-35,0
+EMP0137,41,Male,Divorced,Sales,Sales Manager,Other,9944,20,0,4,3,2,Yes,Travel_Frequently,No,36-45,0
+EMP0138,31,Female,Married,Marketing,Marketing Executive,Medical,5292,13,10,1,3,1,Yes,Travel_Rarely,Yes,26-35,1
+EMP0139,48,Female,Single,Operations,Operations Manager,Technical Degree,8555,16,15,2,3,3,No,Travel_Frequently,No,46+,0
+EMP0140,38,Female,Married,Technology,IT Manager,Other,10287,19,15,2,3,3,Yes,Non-Travel,No,36-45,0
+EMP0141,53,Male,Married,Operations,Supply Chain Analyst,Life Sciences,6928,10,7,3,3,4,No,Travel_Rarely,No,46+,0
+EMP0142,44,Male,Single,Operations,Operations Manager,Life Sciences,9350,14,10,4,3,3,No,Travel_Frequently,Yes,36-45,1
+EMP0143,36,Male,Married,Marketing,Marketing Manager,Other,9392,1,0,3,3,1,Yes,Travel_Rarely,Yes,36-45,1
+EMP0144,34,Male,Single,Finance,Financial Analyst,Technical Degree,7869,9,5,1,4,1,Yes,Non-Travel,No,26-35,0
+EMP0145,53,Female,Single,Sales,Sales Manager,Human Resources,8685,5,5,1,1,1,No,Travel_Rarely,No,46+,0
+EMP0146,29,Male,Single,Technology,Data Analyst,Human Resources,8379,5,1,3,3,1,No,Travel_Frequently,No,26-35,0
+EMP0147,54,Male,Single,Finance,Accountant,Marketing,6141,10,1,1,3,2,No,Travel_Rarely,No,46+,0
+EMP0148,39,Male,Married,HR,HR Executive,Marketing,5885,10,4,1,3,3,Yes,Non-Travel,Yes,36-45,1
+EMP0149,54,Female,Divorced,Finance,Financial Analyst,Human Resources,7908,9,1,3,3,2,Yes,Travel_Rarely,No,46+,0
+EMP0150,57,Male,Single,Finance,Financial Analyst,Human Resources,7713,15,6,1,3,3,Yes,Travel_Frequently,No,46+,0
+EMP0151,56,Female,Single,HR,Recruiter,Technical Degree,5043,4,1,4,2,2,No,Non-Travel,Yes,46+,1
+EMP0152,51,Male,Divorced,Marketing,Marketing Executive,Medical,6588,18,1,4,3,3,Yes,Travel_Frequently,No,46+,0
+EMP0153,49,Female,Single,Sales,Sales Executive,Medical,4261,11,11,1,4,1,No,Travel_Frequently,Yes,46+,1
+EMP0154,48,Female,Divorced,Operations,Supply Chain Analyst,Medical,7337,11,6,4,3,2,No,Travel_Frequently,Yes,46+,1
+EMP0155,23,Male,Married,HR,HR Manager,Medical,9230,2,1,4,3,2,Yes,Travel_Frequently,No,21-25,0
+EMP0156,48,Male,Single,Sales,Sales Executive,Other,4985,19,0,2,2,1,No,Non-Travel,No,46+,0
+EMP0157,36,Female,Divorced,Finance,Accountant,Human Resources,4731,17,6,2,3,3,Yes,Travel_Frequently,No,36-45,0
+EMP0158,41,Female,Divorced,Technology,Data Analyst,Technical Degree,7405,4,4,4,3,1,Yes,Non-Travel,No,36-45,0
+EMP0159,55,Male,Married,Technology,Developer,Other,9672,10,6,2,3,2,No,Non-Travel,No,46+,0
+EMP0160,57,Male,Married,Finance,Finance Manager,Marketing,11282,13,6,2,3,3,Yes,Non-Travel,No,46+,0
+EMP0161,34,Female,Married,Marketing,Brand Manager,Life Sciences,8044,1,1,1,4,2,Yes,Non-Travel,No,26-35,0
+EMP0162,29,Female,Married,HR,Recruiter,Human Resources,4693,11,7,2,3,2,No,Travel_Frequently,No,26-35,0
+EMP0163,38,Female,Married,Technology,IT Manager,Technical Degree,11536,11,8,4,2,4,No,Non-Travel,No,36-45,0
+EMP0164,31,Male,Married,Marketing,Marketing Manager,Human Resources,9966,0,0,4,3,2,No,Travel_Frequently,No,26-35,0
+EMP0165,38,Female,Single,Operations,Operations Analyst,Human Resources,6887,15,15,2,3,3,Yes,Travel_Frequently,Yes,36-45,1
+EMP0166,24,Male,Single,Sales,Sales Representative,Other,3304,6,6,1,4,4,Yes,Non-Travel,No,21-25,0
+EMP0167,54,Female,Single,Sales,Sales Executive,Life Sciences,4247,14,5,4,3,1,Yes,Travel_Frequently,No,46+,0
+EMP0168,56,Male,Single,Operations,Operations Analyst,Medical,7057,9,0,4,4,2,Yes,Travel_Frequently,No,46+,0
+EMP0169,44,Male,Married,Marketing,Marketing Executive,Other,4623,8,6,3,4,4,Yes,Non-Travel,No,36-45,0
+EMP0170,24,Male,Married,Operations,Supply Chain Analyst,Technical Degree,7053,0,0,4,3,1,Yes,Travel_Frequently,No,21-25,0
+EMP0171,55,Male,Single,Technology,Software Engineer,Marketing,9365,1,0,4,3,1,No,Non-Travel,No,46+,0
+EMP0172,31,Female,Married,HR,Recruiter,Other,5331,12,11,1,3,2,No,Non-Travel,No,26-35,0
+EMP0173,27,Female,Married,Operations,Supply Chain Analyst,Life Sciences,5719,8,5,1,3,1,No,Travel_Frequently,No,26-35,0
+EMP0174,53,Female,Single,Technology,Developer,Other,10265,7,5,4,3,4,Yes,Non-Travel,No,46+,0
+EMP0175,31,Female,Married,Sales,Sales Manager,Marketing,8131,6,5,4,3,1,Yes,Travel_Rarely,Yes,26-35,1
+EMP0176,27,Female,Married,Sales,Sales Executive,Life Sciences,5838,2,1,4,2,1,No,Travel_Rarely,No,26-35,0
+EMP0177,27,Female,Married,Finance,Accountant,Medical,6842,8,3,2,3,2,Yes,Non-Travel,No,26-35,0
+EMP0178,39,Male,Married,HR,HR Executive,Life Sciences,5483,13,4,1,3,2,No,Non-Travel,No,36-45,0
+EMP0179,47,Male,Married,Technology,Software Engineer,Marketing,10056,10,9,3,3,4,Yes,Non-Travel,No,46+,0
+EMP0180,40,Male,Divorced,Finance,Accountant,Human Resources,6858,20,15,2,3,3,No,Non-Travel,No,36-45,0
+EMP0181,23,Male,Divorced,Operations,Supply Chain Analyst,Marketing,6358,5,3,4,4,1,No,Non-Travel,No,21-25,0
+EMP0182,49,Female,Divorced,Technology,Data Analyst,Human Resources,8339,12,1,4,3,4,Yes,Travel_Frequently,No,46+,0
+EMP0183,28,Female,Single,Operations,Operations Manager,Life Sciences,8981,3,2,1,3,4,No,Non-Travel,No,26-35,0
+EMP0184,54,Female,Single,Technology,Data Analyst,Marketing,8325,16,7,3,3,2,No,Travel_Rarely,No,46+,0
+EMP0185,31,Female,Divorced,Sales,Sales Executive,Other,5405,5,2,4,4,4,No,Travel_Rarely,No,26-35,0
+EMP0186,41,Male,Married,Technology,Software Engineer,Human Resources,8592,1,0,3,3,2,Yes,Travel_Rarely,No,36-45,0
+EMP0187,47,Female,Single,Finance,Finance Manager,Other,9763,20,5,4,3,2,No,Non-Travel,No,46+,0
+EMP0188,26,Female,Divorced,HR,HR Executive,Other,4998,1,0,3,3,1,No,Travel_Rarely,No,26-35,0
+EMP0189,47,Male,Divorced,Marketing,Marketing Executive,Medical,5725,18,3,3,4,2,No,Travel_Rarely,No,46+,0
+EMP0190,41,Female,Single,Sales,Sales Executive,Technical Degree,5529,3,1,2,3,4,Yes,Travel_Frequently,No,36-45,0
+EMP0191,33,Male,Married,Marketing,Brand Manager,Medical,7683,5,3,2,3,4,Yes,Non-Travel,No,26-35,0
+EMP0192,54,Male,Single,Finance,Financial Analyst,Marketing,8375,20,15,4,3,4,No,Non-Travel,No,46+,0
+EMP0193,56,Female,Divorced,Technology,Data Analyst,Life Sciences,8373,9,2,4,3,1,Yes,Travel_Frequently,No,46+,0
+EMP0194,35,Male,Married,Finance,Financial Analyst,Life Sciences,7713,13,1,3,4,1,No,Non-Travel,No,26-35,0
+EMP0195,44,Female,Divorced,HR,Recruiter,Human Resources,4379,19,13,2,4,2,Yes,Non-Travel,No,36-45,0
+EMP0196,40,Male,Divorced,Technology,IT Manager,Medical,11607,18,8,1,2,4,Yes,Non-Travel,No,36-45,0
+EMP0197,42,Male,Divorced,HR,Recruiter,Life Sciences,5704,7,6,2,3,3,No,Travel_Rarely,No,36-45,0
+EMP0198,39,Female,Single,Marketing,Brand Manager,Human Resources,8499,11,7,3,3,1,No,Travel_Rarely,No,36-45,0
+EMP0199,35,Male,Single,HR,HR Executive,Life Sciences,4822,15,8,3,3,2,No,Travel_Frequently,No,26-35,0
+EMP0200,29,Male,Divorced,Finance,Finance Manager,Marketing,10869,2,1,1,4,4,Yes,Non-Travel,No,26-35,0
